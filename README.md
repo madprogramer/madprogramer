@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![madprogramer's GitHub stats](https://github-readme-stats.vercel.app/api?username=madprogramer)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madprogramer" alt="madprogramer's GitHub stats" /></a> </p>
+
+<!-- ![madprogramer's GitHub stats](https://github-readme-stats.vercel.app/api?username=madprogramer) -->
